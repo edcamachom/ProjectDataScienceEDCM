@@ -250,3 +250,4 @@ Este campo contiene los 5 dígitos, los 2 primeros hacen referencia al departame
 ![](/IMAGES/Imagen19.png)
 
 **Imagen 19.** Histograma del estado de las personas contagiadas por COVID-19.
+
