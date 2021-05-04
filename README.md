@@ -88,7 +88,7 @@ En el marco del desarrollo de las actividades académicas, las estimaciones de t
 
 **Tabla 2.** Tiempo de desarrollo de las fases del proyecto. **Fuente: Elaboración propia.**
 
-![**Tabla 2.** Tiempo de desarrollo de las fases del proyecto. **Fuente: Elaboración propia.**](/IMAGES/TABLA 2.png)
+![**Tabla 2.** Tiempo de desarrollo de las fases del proyecto. **Fuente: Elaboración propia.**](/IMAGES/Tabla_2.jpeg)
 
 ### 6. ANEXOS
 
@@ -255,7 +255,7 @@ Este campo contiene los 5 dígitos, los 2 primeros hacen referencia al departame
 
 El DANE aporta los datos sobre el Censo Nacional Agropecuario (CNA) por cada departamento de Colombia, por lo tanto, se descargó la base de datos relacionada al departamento del Cesar en la cual se encontró la siguiente información (Tabla 4).
 
-**Tabla 4.** Caracterización de las variables de la base de datos del CNA.
+**Tabla 4.** Caracterización de las variables de la base de datos del CNA. **Fuente:** Adaptada del DANE.
 
 ![**Tabla 4.** Caracterización de las variables de la base de datos del CNA. **Fuente: Adaptada del DANE.**](/IMAGES/TABLA_4.png)
 
@@ -263,8 +263,14 @@ El DANE aporta los datos sobre el Censo Nacional Agropecuario (CNA) por cada dep
 
 En el documento desarrollado por el Ministerio de Comercio (MCIT), Industria y Turismo, Proyecto de Desarrollo Local y Comercio (DELCO) y la Universidad Nacional de Colombia (UNAL), se caracterizó la cadena productiva piscícola en la ciénaga de la Zapatosa en el año 2011, de donde se extrajeron las siguientes tablas con información que puede ser de interés:
 
+**Tabla 5.** Producción piscícola estimada en los municipios relacionados con la región de la ciénaga de la Zapatosa. **Fuente:** Adaptada del MCIT, DELCO, UNAL (2011).
+
 ![**Tabla 5.** Producción piscícola estimada en los municipios relacionados con la región de la ciénaga de la Zapatosa. **Fuente: Adaptada del MCIT, DELCO, UNAL (2011).**](/IMAGES/TABLA_5.png)
 
+**Tabla 6.** Unidades piscícolas identificadas en los municipios de la región de la Ciénaga de la Zapatosa. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente:** Tomada del MCIT, DELCO, UNAL (2011).
+
 ![**Tabla 6.** Unidades piscícolas identificadas en los municipios de la región de la Ciénaga de la Zapatosa. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente: Tomada del MCIT, DELCO, UNAL (2011).**](/IMAGES/TABLA_6.png)
+
+**Tabla 7.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente:** Adaptada del MCIT, DELCO, UNAL (2011).
 
 ![**Tabla 7.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente: Adaptada del MCIT, DELCO, UNAL (2011).**](/IMAGES/TABLA_7.png)
