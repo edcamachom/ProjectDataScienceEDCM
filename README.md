@@ -379,7 +379,7 @@ Al comenzar a caracterizar cada una de las variables, se encontraron una serie d
 ![**Tabla 12.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente: Tomada del MCIT, DELCO, UNAL (2011).
 **](/IMAGES/TABLA_3.12.png)
 
-### 1. FILTRADO/SELECCIÓN DE DATOS
+### 4. FILTRADO/SELECCIÓN DE DATOS
 
 El filtro y selección de documentos y bases de datos (Tabla 13), se generó teniendo en cuenta en primera instancia los criterios de inclusión; los documentos y bases de datos que cumplieron con por lo menos uno de los criterios fueron incluidos. En segunda instancia, los documentos y bases de datos filtrados que obedecieron al criterio de exclusión, no se tuvieron en cuenta.
 
