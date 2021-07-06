@@ -274,3 +274,131 @@ En el documento desarrollado por el Ministerio de Comercio (MCIT), Industria y T
 **Tabla 7.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente:** Adaptada del MCIT, DELCO, UNAL (2011).
 
 ![**Tabla 7.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente: Adaptada del MCIT, DELCO, UNAL (2011).**](/IMAGES/TABLA_7.png)
+
+## ENTREGABLE 3
+
+### 1. CONFIGURACIÓN DE META-DATOS
+
+Se hicieron dos búsquedas; la primera relacionada con el COVID-19; la segunda, enfocada a la cadena piscícola en Colombia. Se escogieron las páginas, documentos y demás publicaciones que tuvieran datos numéricos principalmente.
+Se plantearon las siguientes preguntas: 
+
+**Tabla 1.** Preguntas formuladas para la búsqueda de información. **Fuente:** Elaboración Propia.
+
+![**Tabla 1.** Preguntas formuladas para la búsqueda de información. **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.1.png)
+
+### 2. DIAGRAMA DE FLUJO
+
+![**Figura 1.** Diagrama de flujo para el Análisis Inicial de Datos (AID). **Fuente:** Elaboración propia.](/IMAGES/FIGURA_3.1.png)
+
+**Figura 1.** Diagrama de flujo para el Análisis Inicial de Datos (AID). **Fuente:** Elaboración propia.
+
+### 3. PROCESAMIENTO DE DATOS Y LIMPIEZA
+
+#### 3.1 DATOS EXISTENTES
+
+##### 3.1.1 INS
+
+###### Casos positivos COVID-19 Colombia
+
+**Tabla 2.** Variables de la base de datos “Casos positivos COVID-19” en los departamentos de Colombia (2020-2021). **Fuente:** Elaboración Propia.
+
+![**Tabla 2.** Variables de la base de datos “Casos positivos COVID-19” en los departamentos de Colombia (2020-2021). **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.2.png)
+
+De estas variables, aquellas de mayor interés para el desarrollo del proyecto son: 'Código DIVIPOLA municipio', 'Nombre municipio', 'Edad', 'Sexo', 'Tipo de contagio', 'Ubicación del caso', 'Estado', caracterizadas de la siguiente manera (Tabla 3).
+
+**Tabla 3.** Caracterización de las variables de interés de la base de datos del INS. **Fuente:** Elaboración Propia.
+
+![**Tabla 3.** Caracterización de las variables de interés de la base de datos del INS. **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.3.png)
+
+Al comenzar a caracterizar cada una de las variables, se encontraron una serie de errores los cuales fueron corregidos para la columna correspondiente como se muestra en la siguiente tabla (Tabla 4).
+
+**Tabla 4.** Caracterización de las variables de interés de la base de datos del INS. **Fuente:** Elaboración Propia.
+
+![**Tabla 4.** Caracterización de las variables de interés de la base de datos del INS. **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.4.png)
+
+###### Casos COVID-19 Colombia
+
+**Tabla 5.** Casos COVID-19 en los departamentos de Colombia (2020-2021). Tomada de: INS (2021). **Fuente:** Tomada del INS (2021).
+
+![**Tabla 5.** Casos COVID-19 en los departamentos de Colombia (2020-2021). Tomada de: INS (2021). **Fuente: Tomada del INS (2021) **](/IMAGES/TABLA_3.5.png)
+
+![**Figura 2.** Diagrama de flujo para el Análisis Inicial de Datos (AID). **Fuente:** Elaboración propia.](/IMAGES/FIGURA_3.2.png)
+
+**Figura 2.** Diagrama de flujo para el Análisis Inicial de Datos (AID). **Fuente:** Elaboración propia.
+
+###### Estudio Nacional de Seroprevalencia de SARS-CoV-2
+
+**Tabla 6.** Seroprevalencia de SARS-CoV-2 en algunos municipios de Colombia. Tomada de: INS (2021). **Fuente:** Tomada del INS (2021).
+
+![**Tabla 6.** Seroprevalencia de SARS-CoV-2 en algunos municipios de Colombia. Tomada de: INS (2021). **Fuente: Tomada del INS (2021).**](/IMAGES/TABLA_3.6.png)
+
+##### 3.1.2 DANE
+
+###### Censo Nacional Agropecuario
+
+**Tabla 7.** Variables de la base de datos “Censo Nacional Agropecuario 2014”. Tomada de: DANE (2016). **Fuente:** Tomada del DANE (2016).
+
+![**Tabla 7.** Variables de la base de datos “Censo Nacional Agropecuario 2014”. Tomada de: DANE (2016). **Fuente: Tomada del DANE (2016).**](/IMAGES/TABLA_3.7.png)
+
+##### 3.1.3 MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL
+
+###### IREM
+
+**Tabla 8.** IREM de algunos municipios de Colombia con fecha de actualización el 01 de Julio de 2021. Tomada de: MinSalud (2021). **Fuente:** Tomada del MinSalud (2021).
+
+![**Tabla 8.** IREM de algunos municipios de Colombia con fecha de actualización el 01 de Julio de 2021. Tomada de: MinSalud (2021). **Fuente: Tomada del MinSalud (2021).**](/IMAGES/TABLA_3.8.png)
+
+###### Capacidad de UCI en Colombia
+
+![**Figura 3.** Porcentaje de disponibilidad UCI por departamento. **Fuente:** MinSalud (2021)](/IMAGES/FIGURA_3.3.png)
+
+**Figura 3.** Porcentaje de disponibilidad UCI por departamento. **Fuente:** MinSalud (2021)
+
+###### Vacunación contra COVID-19
+
+**Tabla 9.** Esquemas completos aplicados contra COVID-19. Tomada de: MinSalud (2021). **Fuente:** Tomada del MinSalud (2021).
+
+![**Tabla 9.** Esquemas completos aplicados contra COVID-19. Tomada de: MinSalud (2021). **Fuente: Tomada del MinSalud (2021).**](/IMAGES/TABLA_3.9.png)
+
+#### 3.1 DATOS ADICIONALES
+
+###### Estudio de la cadena productiva de la pesca y piscicultura en la ciénaga de la Zapatosa.
+
+**Tabla 10.** Producción piscícola estimada en los municipios relacionados con la región de la ciénaga de la Zapatosa. Tomada de: Adaptada del MCIT, DELCO, UNAL (2011). **Fuente:** Tomada del MCIT, DELCO, UNAL (2011).
+
+![**Tabla 10.** Producción piscícola estimada en los municipios relacionados con la región de la ciénaga de la Zapatosa. **Fuente: Tomada del MCIT, DELCO, UNAL (2011).
+**](/IMAGES/TABLA_3.10.png)
+
+**Tabla 11.** Unidades piscícolas identificadas en los municipios de la región de la Ciénaga de la Zapatosa. Tomada de: MCIT, DELCO, UNAL (2011). **Fuente:** Tomada del MCIT, DELCO, UNAL (2011).
+
+![**Tabla 11.** Unidades piscícolas identificadas en los municipios de la región de la Ciénaga de la Zapatosa. **Fuente: Tomada del MCIT, DELCO, UNAL (2011).
+**](/IMAGES/TABLA_3.11.png)
+
+**Tabla 12.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). Tomada de: Adaptada del MCIT, DELCO, UNAL (2011). **Fuente:** Tomada del MCIT, DELCO, UNAL (2011).
+
+![**Tabla 12.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente: Tomada del MCIT, DELCO, UNAL (2011).
+**](/IMAGES/TABLA_3.12.png)
+
+### 1. FILTRADO/SELECCIÓN DE DATOS
+
+El filtro y selección de documentos y bases de datos (Tabla 13), se generó teniendo en cuenta en primera instancia los criterios de inclusión; los documentos y bases de datos que cumplieron con por lo menos uno de los criterios fueron incluidos. En segunda instancia, los documentos y bases de datos filtrados que obedecieron al criterio de exclusión, no se tuvieron en cuenta.
+
+**Tabla 13.** Documentos y bases de datos que cumplieron los criterios de inclusión y de exclusión. **Fuente:** Elaboración Propia.
+
+![**Tabla 13.** Documentos y bases de datos que cumplieron los criterios de inclusión y de exclusión. **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.13.png)
+
+#### REFERENCIAS
+
+INS. [Fecha de revisión: Julio de 2021]. Casos positivos de COVID-19 en Colombia. Disponible en: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
+
+INS. [Fecha de revisión: Julio de 2021]. Casos COVID-19. Colombia, 2020-2021. Disponible en: https://app.powerbi.com/view?r=eyJrIjoiMjBjZWNlOGUtNzc1Yi00NjVkLTkyMjktOTJmMGU3YTU2Nzk4IiwidCI6ImE2MmQ2YzdiLTlmNTktNDQ2OS05MzU5LTM1MzcxNDc1OTRiYiIsImMiOjR9&pageName=ReportSection0c50ea3406afe4407370
+
+INS. [Fecha de revisión: Julio de 2021]. Estudio Nacional de Seroprevalencia durante la pandemia en Colombia. Disponible en: https://www.ins.gov.co/estudio-nacional-de-seroprevalencia/reporte.html
+
+DANE (2016). 3er Censo Agropecuario Nacional – Censo Nacional Agropecuario 2014. Ministerio de Agricultura. Disponible en: https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/censo-nacional-agropecuario-2014#1
+
+Ministerio de Salud y Protección Social. [Fecha de revisión: Julio de 2021]. Índice de Resiliencia Epidemiológica Municipal. Disponible en: https://www.minsalud.gov.co/salud/publica/PET/Paginas/indice-de-Resiliencia-Epidemiologica-Municipal.aspx
+
+Ministerio de Salud y Protección Social. [Fecha de revisión: Julio de 2021]. Comportamiento del virus en Colombia: Capacidad de UCIS. Disponible en: https://coronaviruscolombia.gov.co/Covid19/estadisticas-covid-19/ucis.html
+
+Ministerio de Comercio, Industria y Turismo, Proyecto de Desarrollo Local y Comercio en Colombia, Universidad Nacional de Colombia (2011). Estudio de la cadena productiva de la pesca y piscicultura en la ciénaga de la Zapatosa. Disponible en: https://www.scribd.com/document/80296507/Estudio-de-la-Cadena-Productiva-de-la-Pesca-y-la-Piscicultura-en-la-Cienaga-de-la-Zapatosa-Cesar
