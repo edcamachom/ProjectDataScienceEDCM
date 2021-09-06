@@ -1,11 +1,9 @@
 # NIVEL DE CRITICIDAD DE LOS CARGOS DE LA CADENA PRODUCTIVA PISCÍCOLA COMO FACTOR DE RIESGO DE CONTAGIO POR COVID-19 EN EL DEPARTAMENTO DEL CESAR
 **Elaborado por:** Erika Daniela Camacho Morales
 
-## ENTREGABLE 1
+## INTRODUCCIÓN
 
-### INTRODUCCIÓN
-
-#### ENTENDIMIENTO DEL NEGOCIO
+### ENTENDIMIENTO DEL NEGOCIO
 
 La pandemia causada por el coronavirus SARS-CoV-2 (COVID-19) ha generado una problemática compleja con un alcance sistémico (Universidad Nacional de Colombia, 2021) ya que ha afectado todas las dimensiones de la vida social de los habitantes del país, provocando emergencias de tipo social, económico, ambiental (Organisation for Economic Co-operation and Development OECD, 2020), especialmente en las zonas rurales de escasos recursos como la Ciénaga de la Zapatosa del departamento del Cesar (Universidad Nacional de Colombia, 2021). 
 
@@ -21,7 +19,7 @@ En el caso del grupo GIGEP de la Universidad Nacional de Colombia sede Bogotá, 
 
 Con el fin de dar cumplimiento a parte de las actividades planteadas en la propuesta de la Universidad Nacional de Colombia sede La paz, en cabeza del grupo GIGEP se plantea el proyecto “Nivel de criticidad de los cargos de la cadena productiva piscícola como factor de riesgo de contagio por COVID-19 en el departamento del Cesar”, específicamente en los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque pertenecientes al área de la ciénaga de la Zapatosa.  
 
-### JUSTIFICACIÓN
+## JUSTIFICACIÓN
 
 La pandemia de COVID-19 ha puesto al mundo frente a una amenaza sin precedentes (FAO & OMS, 2020) que ha interrumpido el normal funcionamiento de las cadenas alimentarias y ha afectado la economía de quienes se encuentran vinculados a ellas (CEPAL & FAO, 2020). A medida que se propaga el contagio, es fundamental garantizar el funcionamiento de las cadenas de suministro de alimento como la piscícola, para prevenir una crisis alimentaria y reducir los impactos negativos en la economía (Organización Internacional del Trabajo OIT, 2021).
 
@@ -29,21 +27,21 @@ En la cadena productiva, si bien hay algunas industrias que cuentan con planes d
 
 Para garantizar el suministro de alimento y prever acciones en caso que la situación se haga más crítica, es necesario tomar acciones para frenar el contagio de los trabajadores de la cadena alimentaria piscícola, y salvaguardar especialmente a aquellos que cumplen un rol fundamental, necesarios para desarrollar las actividades requeridas dentro de la cadena (Romero, 2020).
 
-### OBJETIVOS DEL NEGOCIO
+## OBJETIVOS DEL NEGOCIO
 
-#### **Objetivo general**
+### **Objetivo general**
 
 * Establecer un modelo matemático para establecer el nivel de criticidad del personal de la cadena productiva piscícola de los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque de la ciénaga de la Zapatosa.
 
-#### **Objetivos específicos**
+### **Objetivos específicos**
 
 * Distinguir una metodología que permita establecer el nivel de criticidad de los cargos de la cadena productiva piscícola de los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque de la ciénaga de la Zapatosa.
 
 * Identificar los datos requeridos para el establecimiento del modelo matemático del nivel de criticidad de los cargos de la cadena productiva piscícola de los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque de la ciénaga de la Zapatosa.
 
-### METODOLOGÍA
+## METODOLOGÍA
 
-#### 1. Búsqueda de información para encontrar la metodología que permita establecer el nivel de criticidad.
+### 1. Búsqueda de información para encontrar la metodología que permita establecer el nivel de criticidad.
 
 Para recopilar la información necesaria que permitiera encontrar la manera apropiada para establecer el nivel de criticidad del personal de la cadena productiva piscícola, se utilizó la metodología Preferred Reporting Items for Systematic review and Meta-Analysis (PRISMA) (Hutton, Catalá-López, & Moher, 2016). Herramienta que incorpora aspectos conceptuales y sistemáticos que ayudan al desarrollo de Revisiones Sistemáticas (RS) y Meta-análisis (MA) (Kouato et al., 2018), mediante la cual es posible obtener información clara, completa, viable y transparente (Urrutía & Bonfill, 2010).
 
@@ -69,17 +67,17 @@ Sintetizar apropiadamente: Síntesis cualitativa y/o cuantitativa de la informac
 
 Difundir a la audiencia apropiada: Informe completo y transparente para el documento planeado (Moreno & Moreno, 2019).
 
-#### 2. Identificación de los eslabones de la cadena productiva piscícola y los cargos que se requieren dentro de ellos.
+### 2. Identificación de los eslabones de la cadena productiva piscícola y los cargos que se requieren dentro de ellos.
 
 Se hizo una búsqueda relacionada con la cadena productiva piscícola para poder determinar los eslabones que la componen y diferenciar los cargos que se requieren para el desarrollo de las actividades que lleven a cumplir el objetivo productivo establecido en cada eslabón y en la cadena alimentaria.
 
-#### 3. Encuesta para colectar datos.
+### 3. Encuesta para colectar datos.
 
 Se generó una encuesta para colectar datos y establecer el nivel de importancia de cada uno de los cargos de la cadena piscícola según el criterio de expertos. Para llevar a cabo la encuesta; en primer lugar, se describió el sistema alimentario de la ciénaga de la Zapatosa en la que se identificaron los eslabones de la cadena productiva piscícola y los cargos que se establecen; en segundo lugar, se hizo una descripción de los puestos; por último, se estableció la encuesta orientada a la priorización de los cargos de acuerdo con la metodología encontrada.
 
-### RESULTADOS
+## RESULTADOS
 
-#### 1. Búsqueda de información para encontrar la metodología que permita establecer el nivel de criticidad.
+### 1. Búsqueda de información para encontrar la metodología que permita establecer el nivel de criticidad.
 
 Una vez el objetivo del proyecto fue definido, se estableció el protocolo de desarrollo de la RS en el que se determinaron los criterios de búsqueda tales como (“criticality level” AND “workers”), (“criticality level”) y (“criticality level” AND “workers” AND “companies”). Los buscadores fueron seleccionados teniendo en cuenta el acceso que se tenía a los mismos, por lo que Scopus, y Web of Science se utilizaron.
 
@@ -118,7 +116,7 @@ A partir de las dos dimensiones se establece el nivel de criticidad de cada carg
 
 **Figura 4.** Nivel de criticidad de los cargos. **Fuente:** Elaboración propia.
 
-#### 2. Identificación de los eslabones de la cadena productiva piscícola y los cargos que se requieren dentro de ellos.
+### 2. Identificación de los eslabones de la cadena productiva piscícola y los cargos que se requieren dentro de ellos.
 
 Tras una búsqueda relacionada con el sistema alimentario de los municipios de la ciénaga de la Zapatosa, se encontró que éste se define como la suma de diversos elementos, actores y actividades que mediante sus interrelaciones hacen posible las cadenas productivas, influidos por factores económicos, geopolíticos, sociales y ambientales (FAO, 2017) como se observa en la Figura 5.
 
@@ -142,7 +140,7 @@ Los actores que se encuentran inmersos en la cadena productiva piscícola centra
 
 ![**Tabla 3.** Perfiles ocupacionales de la cadena productiva piscícola. **Fuente: Elaboración propia.**](/IMAGES/Tabla3.jpeg)
 
-#### 3. Encuesta para colectar datos.
+### 3. Encuesta para colectar datos.
 
 Una vez se identificó la metodología que establece el nivel de criticidad de los cargos, se generó la encuesta para ser respondida por expertos mediante la cual se buscaba priorizar cargos de la cadena a partir de los criterios que la metodología tiene en cuenta, de la siguiente manera:
 Por favor, a continuación seleccione el nivel de prioridad de cada cargo siendo 1 nivel de prioridad bajo, 2 nivel de prioridad medio, 3 nivel de prioridad alto, 4 nivel de prioridad muy alto. Seleccione 1 sola respuesta.
@@ -272,9 +270,9 @@ Establezca la responsabilidad que usted como experto, considera que tiene la per
 3.	3
 4.	4
 
-### ANEXOS
+## ANEXOS
 
-#### Terminología
+### Terminología
 
 **Riesgo:** "Potencial de consecuencias en que algo de valor está en peligro con un desenlace incierto, reconociendo la diversidad de valores. A menudo el riesgo se representa como la probabilidad de acaecimiento de sucesos o tendencias peligrosas multiplicada por los impactos en caso de que ocurran tales sucesos o tendencias. Los riesgos resultan de la interacción de la vulnerabilidad, la exposición y el peligro. En el presente informe, el término riesgo se utiliza principalmente en referencia a los riesgos de impactos del cambio climático" (DNP, 2018).
 
@@ -286,7 +284,7 @@ Establezca la responsabilidad que usted como experto, considera que tiene la per
 
 **Impactos:** "Efectos en los sistemas naturales y humanos. En el presente informe, el término impactos se emplea principalmente para describir los efectos sobre los sistemas naturales y humanos de episodios meteorológicos y climáticos extremos y del cambio climático. Los impactos generalmente se refieren a efectos en las vidas, medios de subsistencia, salud, ecosistemas, economías, sociedades, culturas, servicios e infraestructuras debido a la interacción de los cambios climáticos o fenómenos climáticos peligrosos que ocurren en un lapso de tiempo específico y a la vulnerabilidad de las sociedades o los sistemas expuestos a ellos. Los impactos también se denominan consecuencias y resultados. Los impactos del cambio climático sobre los sistemas geofísicos, incluidas las inundaciones, las sequías y la elevación del nivel del mar, son un subconjunto de los impactos denominados impactos físicos" (IPCC, 2014).
 
-### REFERENCIAS
+## REFERENCIAS
 
 Aragón, S. Y., & Monroy, E. M. (2009). Administración del talento humano para cargos críticos caso grupo honor y laurel: Metodologia propuesta para empresas de servicios de seguridad. Facultad de Administración Universidad Del Rosario, 2(5), 230–255. Retrieved from http://repository.urosario.edu.co/bitstream/10336/1634/1/
 
