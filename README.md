@@ -1,98 +1,280 @@
-# FACTORES DE RIESGO DE CONTAGIO POR COVID-19 EN LOS ESLABONES DE LA CADENA PRODUCTIVA DE LOS SISTEMAS ALIMENTARIOS EN EL DEPARTAMENTO DEL CESAR
+# NIVEL DE CRITICIDAD DE LOS CARGOS DE LA CADENA PRODUCTIVA PISCÍCOLA COMO FACTOR DE RIESGO DE CONTAGIO POR COVID-19 EN EL DEPARTAMENTO DEL CESAR
 **Elaborado por:** Erika Daniela Camacho Morales
 
 ## ENTREGABLE 1
 
-### 1. ENTENDIMIENTO DEL NEGOCIO
+### INTRODUCCIÓN
 
-Ante la pandemia causada por el coronavirus SARS-CoV-2 (COVID-19) se ha generado una problemática compleja con un alcance sistémico en el país, especialmente en las zonas rurales de escasos recursos que poseen mayor vulnerabilidad ya que este virus ha afectado todas las dimensiones de la vida social de los habitantes de estas zonas. Por lo anterior, es importante enfrentar las emergencias de tipo social, económico, ambiental por medio de acciones que permitan mitigar los contagios por COVID-19 para poder así reactivar la economía, mejorar las condiciones de salud, de educación y de vivienda, y garantizar la seguridad y soberanía alimentaria.
+#### ENTENDIMIENTO DEL NEGOCIO
 
-Un aspecto importante para garantizar la soberanía y seguridad alimentaria es entender los sistemas alimentarios y cómo el COVID-19 los ha afectado. En ese orden de ideas, los sistemas alimentarios son definidos como la suma de diversos elementos, actores y actividades que mediante sus interrelaciones hacen posible las cadenas productivas, los cuales son influidos por factores económicos, geopolíticos, sociales y ambientales (FAO, 2017) (Figura 1).
+La pandemia causada por el coronavirus SARS-CoV-2 (COVID-19) ha generado una problemática compleja con un alcance sistémico (Universidad Nacional de Colombia, 2021) ya que ha afectado todas las dimensiones de la vida social de los habitantes del país, provocando emergencias de tipo social, económico, ambiental (Organisation for Economic Co-operation and Development OECD, 2020), especialmente en las zonas rurales de escasos recursos como la Ciénaga de la Zapatosa del departamento del Cesar (Universidad Nacional de Colombia, 2021). 
 
-Las cadenas productivas se definen como el conjunto de agentes y actividades (Cayeros, Robles, & Soto, 2016) desarrolladas tanto de forma directa como indirecta, en los diferentes eslabones que tratan de satisfacer al cliente final con una serie de funciones productivas, financieras, informativas y de análisis (Briz et al., 2009; Escribano et al., 2010). Las cadenas productivas están vinculadas y anidadas en ambientes dinámicos e interactivos ya que incluyen aspectos socioculturales, económicos, ambientales y políticos con actores múltiples involucrados de manera activa en los diferentes eslabones (FAO, 2017).
+El brote de COVID-19 ha exigido acciones de los gobiernos, autoridades y comunidades científicas para predecir, mitigar o detener la propagación del virus (Arellana et al., 2020); por ello, la Universidad Nacional de Colombia sede La Paz propuso el proyecto “Desarrollo, transferencia de tecnología, conocimiento e innovación para la reactivación económica en seguridad y soberanía alimentaria derivadas de la emergencia económica, social y ecológica causada por el COVID-19 en ciénaga de la Zapatosa-Cesar”, que tiene como objetivos mejorar las capacidades de transferencia tecnológica e innovación para la productividad en la eco región de la Ciénaga de la Zapatosa para atender la reactivación económica, social y ecológica causada por el COVID 19; incrementar la infraestructura de soluciones tecnológicas de acceso público; y caracterizar las cadenas productivas locales en torno a las redes de abasto, almacenamiento y distribución para el desarrollo de esquemas de producción sostenibles en algunos municipios de la eco-región de la Ciénaga de la Zapatosa.
 
-Los eslabones son definidos como el conjunto de agrupaciones que realizan actividades económicas afines los cuales cumplen diversas funciones dentro de la cadena en las que se reconocen los actores que demandan u ofrecen productos con diferentes características de calidad, cantidad y oportunidad (Demenus et al., 2011; Cayeros et al., 2016). Los eslabones de la cadena productiva son producción, transformación, comercialización y consumo de alimentos (FAO, 2017).
+Para desarrollar la propuesta de la Universidad Nacional de Colombia sede La Paz se hizo alianza con la empresa Gestión INTU S.A.S., la Universidad Popular del Cesar, la Universidad Nacional de Colombia sedes Bogotá y Medellín. Las entidades aliadas cuentan con grupos de investigación como se muestra en la Figura 1, expertos en sus áreas de conocimiento mediante los cuales se pretende hacer un aporte investigativo, científico y analítico para desarrollar el proyecto.
 
-![**Figura 1.** El sistema alimentario y sus componentes. **Fuente:** Elaboración propia.](/IMAGES/SISTEMA.png)
+![**Figura 1.** Grupos de investigación de las entidades del proyecto y sus respectivos líderes. **Fuente:** Elaboración propia.](/IMAGES/ORGANIZACIÓN.png)
 
-**Figura 1.** El sistema alimentario y sus componentes. **Fuente:** Elaboración propia.
+**Figura 1.** Grupos de investigación de las entidades del proyecto y sus respectivos líderes. **Fuente:** Elaboración propia.
 
-### 2. OBJETIVOS DEL NEGOCIO
+En el caso del grupo GIGEP de la Universidad Nacional de Colombia sede Bogotá, los profesores Fausto Camilo Moreno Vázquez y Francisco Albeiro Gómez Jaramillo tienen la responsabilidad de orientar al grupo de trabajo para llevar a cabo actividades que ayuden al cumplimiento de los objetivos del proyecto propuesto por la Universidad Nacional de Colombia sede La Paz, como generar y aplicar estrategias de análisis del riesgo e inocuidad de las cadenas productivas regionales, así como apoyar los procesos asociados con la caracterización de las cadenas productivas del sistema alimentario en torno a las redes de abasto, almacenamiento y distribución para el desarrollo de esquemas de producción sostenibles en los municipios de la eco-región de la ciénaga de la Zapatosa. 
 
-#### 2.1. Estructura organizativa
-La Universidad Nacional de Colombia sede La Paz generó la propuesta “Desarrollo, transferencia de tecnología y conocimiento para la innovación para la reactivación económica y soberanía seguridad alimentaria derivadas de la emergencia económica, social y ecológica causada por el COVID-19 en ciénaga de la Zapatosa-Cesar”. La propuesta fue generada debido a las limitadas capacidades de transferencia tecnológica e innovación para la productividad de algunos municipios del Departamento del Cesar, y para atender la reactivación económica, social y ecológica causada por el COVID-19.
+Con el fin de dar cumplimiento a parte de las actividades planteadas en la propuesta de la Universidad Nacional de Colombia sede La paz, en cabeza del grupo GIGEP se plantea el proyecto “Nivel de criticidad de los cargos de la cadena productiva piscícola como factor de riesgo de contagio por COVID-19 en el departamento del Cesar”, específicamente en los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque pertenecientes al área de la ciénaga de la Zapatosa.  
 
-Para aunar esfuerzos en pro del desarrollo de la región Caribe y del Departamento del Cesar, se ha creado una alianza entre la empresa Gestión INTU S.A.S., la Universidad Popular del Cesar, las sedes Bogotá, Medellín y La Paz de la Universidad Nacional de Colombia. Las entidades tanto proponente como aliadas, cuentan con grupos de investigación expertos en sus áreas de conocimiento, mediante los cuales se pretende hacer un aporte investigativo, científico, analítico para el desarrollo de la propuesta (Figura 2).
+### JUSTIFICACIÓN
 
-![**Figura 2.** Grupos de investigación de cada entidad y sus respectivos líderes. **Fuente:** Elaboración propia.](/IMAGES/ORGANIZACIÓN.png)
+La pandemia de COVID-19 ha puesto al mundo frente a una amenaza sin precedentes (FAO & OMS, 2020) que ha interrumpido el normal funcionamiento de las cadenas alimentarias y ha afectado la economía de quienes se encuentran vinculados a ellas (CEPAL & FAO, 2020). A medida que se propaga el contagio, es fundamental garantizar el funcionamiento de las cadenas de suministro de alimento como la piscícola, para prevenir una crisis alimentaria y reducir los impactos negativos en la economía (Organización Internacional del Trabajo OIT, 2021).
 
-**Figura 2.** Grupos de investigación de cada entidad y sus respectivos líderes. **Fuente:** Elaboración propia.
+En la cadena productiva, si bien hay algunas industrias que cuentan con planes de contingencia y expertos en higiene de alimentos, la gente inmersa en la cadena tiene una gran necesidad de orientaciones acerca de las características del COVID-19 para manejar la crisis, poder desarrollar las actividades productivas sin mayores contratiempos (Romero, 2020) y mantener la producción y servicios alimentarios para abastecer a la población (Briz et al., 2020). 
 
-Específicamente en el caso del grupo GIGEP de la Universidad Nacional de Colombia sede Bogotá, Fausto Camilo Moreno Vázques y Francisco Albeiro Gómez Jaramillo tienen la responsabilidad de orientar al grupo de trabajo para llevar a cabo todas las actividades que permitan desarrollar estrategias y herramientas para el análisis de riesgo e inocuidad de las cadenas productivas regionales, y apoyar los procesos asociados con la caracterización de las cadenas productivas del sector en torno a las redes de abasto, almacenamiento y distribución para el desarrollo de esquemas de producción sostenibles en los 7 municipios de la eco-región de la Ciénaga de la Zapatosa. Para ayudar al cumplimiento de algunas de las tareas mencionadas anteriormente, se propone el siguiente proyecto el cual tiene como objetivos:
+Para garantizar el suministro de alimento y prever acciones en caso que la situación se haga más crítica, es necesario tomar acciones para frenar el contagio de los trabajadores de la cadena alimentaria piscícola, y salvaguardar especialmente a aquellos que cumplen un rol fundamental, necesarios para desarrollar las actividades requeridas dentro de la cadena (Romero, 2020).
 
-#### 2.2. **Objetivo general**
-Generar un modelo para identificar el riesgo por COVID-19 en los eslabones de la cadena productiva de los sistemas alimentarios del Departamento del Cesar.
+### OBJETIVOS DEL NEGOCIO
 
-#### 2.3. **Objetivos específicos**
-* Identificar y caracterizar los factores de riesgo en cada uno de los eslabones de las cadenas productivas.
+#### **Objetivo general**
 
-* Establecer modelos matemáticos para cada factor de riesgo que permitan evidenciar la importancia de la amenaza en cada uno de los eslabones de la cadena productiva.
+* Establecer un modelo matemático para establecer el nivel de criticidad del personal de la cadena productiva piscícola de los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque de la ciénaga de la Zapatosa.
 
-* Identificar los eslabones de las cadenas productivas con mayor riesgo de contagio por COVID-19. 
+#### **Objetivos específicos**
 
-### 3. ÁREA DEL PROBLEMA
+* Distinguir una metodología que permita establecer el nivel de criticidad de los cargos de la cadena productiva piscícola de los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque de la ciénaga de la Zapatosa.
 
-La situación de pandemia actual en los municipios de Astrea, Pailitas, Chimichagua, Chiriguaná, Curumaní y Tamalameque nos ha permitido evidenciar los problemas que el COVID-19 ha generado para el desarrollo del sector, donde se genera el reto de la prevención, reducción y manejo de esta problemática (DPN, 2018) especialmente en los eslabones de las cadenas productivas.
+* Identificar los datos requeridos para el establecimiento del modelo matemático del nivel de criticidad de los cargos de la cadena productiva piscícola de los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque de la ciénaga de la Zapatosa.
 
-En este sentido, identificar y analizar las condiciones de riesgo en los eslabones se vuelve indispensable para cualquier proceso de planificación de desarrollo, convirtiéndose en el soporte para orientar y priorizar las acciones actuales y futuras del territorio. Para entender la problemática del riesgo de contagio por COVID-19 en los procesos de la cadena productiva, es indispensable identificar las condiciones de riesgo y la capacidad que tienen los entes territoriales para gestionarlo; puesto que, dada la heterogeneidad de dichas capacidades, no es efectivo aplicar una estrategia “estándar” para todos los eslabones de todas las cadenas productivas.
+### METODOLOGÍA
 
-Debido a la primicia de la pandemia no se han hecho análisis con minería de datos para estructurar las medidas adecuadas de prevención, reducción y manejo del riesgo de contagio por COVID-19 específicamente en los eslabones de las cadenas productivas, sin embargo, actualmente se cuenta con medidas preventivas a nivel general las cuales fueron establecidas por el gobierno del Cesar tales como distanciamiento físico, aislamiento preventivo, cierre de algunas fronteras, entre otros.
+#### 1. Búsqueda de información para encontrar la metodología que permita establecer el nivel de criticidad.
 
-Una ventaja de las medidas planteadas es que la tasa de contagio por COVID-19 se ha visto un poco frenada. Sin embargo, algunas de las medidas que se han tomado para intentar frenar la propagación del virus como las restricciones al libre desplazamiento y el distanciamiento físico, han afectado el funcionamiento normal de los sistemas alimentarios. Por otro lado, es importante mencionar que debido a las medidas de cuarentena vigente y el menor acceso a transporte algunos trabajadores del sector agroalimentario fueron impedidos o tuvieron dificultades para acceder a sus lugares de trabajo. Estas interrupciones en los eslabones de la cadena de valor del sistema agroalimentario han tenido como uno de sus resultados mayores pérdidas económicas en las cadenas productivas.
+Para recopilar la información necesaria que permitiera encontrar la manera apropiada para establecer el nivel de criticidad del personal de la cadena productiva piscícola, se utilizó la metodología Preferred Reporting Items for Systematic review and Meta-Analysis (PRISMA) (Hutton, Catalá-López, & Moher, 2016). Herramienta que incorpora aspectos conceptuales y sistemáticos que ayudan al desarrollo de Revisiones Sistemáticas (RS) y Meta-análisis (MA) (Kouato et al., 2018), mediante la cual es posible obtener información clara, completa, viable y transparente (Urrutía & Bonfill, 2010).
 
-Es necesario anunciar la minería de datos como una tecnología clave para entender esta problemática y generar modelos para cada factor de riesgo identificados en los eslabones de las cadenas productivas para de esta manera mitigar el riesgo de contagio por COVID-19.
+El protocolo de desarrollo que maneja PRISMA consiste en una serie de etapas como se observa en la Figura 2, que facilitan la identificación, filtro, selección e inclusión de documentos considerados apropiados, a partir de los cuales se extrajo la información necesaria para ser sintetizada y difundida (Urrutía & Bonfill, 2010).
 
-### 4. INVENTARIO DE RECURSOS
+![**Figura 2.** Protocolo de desarrollo de la Revisión Sistemática y Meta-análisis. **Fuente:** Elaboración propia.](/IMAGES/Figura_2.png)
 
-#### 4.1. Recursos de hardware
+**Figura 2.** Protocolo de desarrollo de la Revisión Sistemática y Meta-análisis. **Fuente:** Elaboración propia.
 
-En el apartado de hardware se  listan a continuación (Tabla 1) las características de los componentes del PC de mínimos, los recomendados y óptimos para el adecuado funcionamiento de los software utilizados. 
+Definir objetivo: Planteamiento explícito, preciso y claro de las preguntas que se están abordando y se desean contestar (Hutton et al., 2016), establecido en conjunto con profesores.
 
-**Tabla 1.** Requerimiento de hardware. **Fuente: Elaboración propia.**
+Desarrollar protocolo: Definición del protocolo de revisión, en el que se determinan las estrategias de búsqueda de información, se describen claramente los criterios de inclusión y de exclusión, así como las fuentes de información (Urrutía & Bonfill, 2010).
 
-![**Tabla 1.** Requerimiento de hardware. **Fuente: Elaboración propia.**](/IMAGES/PC.png)
+Identificar estudios relevantes: Búsqueda exhaustiva diferentes bases de datos bibliográficas (Moreno & Moreno, 2019).
 
-#### 4.2. Fuentes de datos
+Evaluar elegibilidad e inclusión: Proceso de selección de los estudios por los criterios de inclusión y de exclusión determinados (Urrutía & Bonfill, 2010).
 
-Se han identificado como principales fuentes de datos disponibles:
+Extraer datos relevantes: Descripción de los métodos para la extracción de la información considerada relevante de las publicaciones para alcanzar el/los objetivo(s) propuesto(s) (Hutton et al., 2016).
 
-Los datos abiertos dispuestos por varias organizaciones y entidades públicas y privadas en el [Portal de datos del estado Colombiano](https://www.datos.gov.co/), el tipo de formato de datos se encuentra en tablas que pueden ser exportadas en formato .csv, acorde con los estándares establecidos en la definición del término “datos abiertos” que son “todos aquellos datos primarios o sin procesar, que se encuentran en formatos estándar e interoperables que facilitan su acceso y reutilización, los cuales están bajo la custodia de las entidades públicas o privadas que cumplen con funciones públicas y que son puestos a disposición de cualquier ciudadano, de forma libre y sin restricciones, con el fin de que terceros puedan reutilizarlos y crear servicios derivados de los mismos”(Ley 1712 de 2014. Literal J, artículo 6. Definiciones)
+Evaluación crítica: Uso de herramientas adecuadas para comparar características metodológicas o información de los estudios (Moreno & Moreno, 2019).
 
-El Departamento Administrativo Nacional de Estadística ([DANE](https://www.dane.gov.co/)) tiene a disposición una serie de datos en formato .csv y por otro lado información cartográfica en formato .shp.
+Sintetizar apropiadamente: Síntesis cualitativa y/o cuantitativa de la información (Cué & Oramas, 2008).
 
-La Unidad de Planeación Rural Agropecuaria ([UPRA](https://www.upra.gov.co/)) ofrece información que se presenta en su mayoría en formato .shp a través de su plataforma Sistema para la Planificación Rural Agropecuaria ([SIPRA](https://sipra.upra.gov.co/)), aunque también posee información en .csv.
+Difundir a la audiencia apropiada: Informe completo y transparente para el documento planeado (Moreno & Moreno, 2019).
 
-En el marco de este proyecto se tiene contemplada una fase de captura de datos en campo en la cual se realizará una entrevista y/o encuesta semiestructurada para los actores claves de los eslabones de la cadena productiva. Además, se espera que el Gobierno del Cesar suministre datos adicionales que se están gestionando.
+#### 2. Identificación de los eslabones de la cadena productiva piscícola y los cargos que se requieren dentro de ellos.
 
-Los datos se almacenarán en un medio magnético en discos duros y se tendrán copias de respaldo en la nube (Google drive).
+Se hizo una búsqueda relacionada con la cadena productiva piscícola para poder determinar los eslabones que la componen y diferenciar los cargos que se requieren para el desarrollo de las actividades que lleven a cumplir el objetivo productivo establecido en cada eslabón y en la cadena alimentaria.
 
-#### 4.3. Recursos de personal
+#### 3. Encuesta para colectar datos.
 
-Se contará con el apoyo del Laboratorio de Analítica de Datos de la Universidad Nacional - Sede Bogotá, que cuenta con un grupo experto en analítica de datos y uno en la parte temática.
+Se generó una encuesta para colectar datos y establecer el nivel de importancia de cada uno de los cargos de la cadena piscícola según el criterio de expertos. Para llevar a cabo la encuesta; en primer lugar, se describió el sistema alimentario de la ciénaga de la Zapatosa en la que se identificaron los eslabones de la cadena productiva piscícola y los cargos que se establecen; en segundo lugar, se hizo una descripción de los puestos; por último, se estableció la encuesta orientada a la priorización de los cargos de acuerdo con la metodología encontrada.
 
-También se contará con el apoyo de un comité experto en la temática que será necesario en la fase de ponderación de los factores de riesgo.
+### RESULTADOS
 
-### 5. PLAN PROYECTO
+#### 1. Búsqueda de información para encontrar la metodología que permita establecer el nivel de criticidad.
 
-En el marco del desarrollo de las actividades académicas, las estimaciones de tiempo para llevar a cabo cada una de las fases del proyecto se muestran en la Tabla 2.
+Una vez el objetivo del proyecto fue definido, se estableció el protocolo de desarrollo de la RS en el que se determinaron los criterios de búsqueda tales como (“criticality level” AND “workers”), (“criticality level”) y (“criticality level” AND “workers” AND “companies”). Los buscadores fueron seleccionados teniendo en cuenta el acceso que se tenía a los mismos, por lo que Scopus, y Web of Science se utilizaron.
 
-**Tabla 2.** Tiempo de desarrollo de las fases del proyecto. **Fuente: Elaboración propia.**
+Se identificaron 502 documentos recuperados en los buscadores los cuales fueron filtrados de acuerdo con los criterios de inclusión establecidos, como referencia bibliográfica completa (autor, título, fecha); documentos incluidos desde el año 2015 e investigaciones en inglés o español. Posteriormente, fueron elegidas 387 investigaciones y se descartaron 384 porque cumplieron con los criterios de exclusión tales como: la información bibliográfica no debe tener sentido (Ej: Título: Index, E, Sistema); los artículos no deben estar relacionados con el nivel de criticidad de activos y sistemas operativos; sin embargo, se incluyó 1 documento (Figura 3) que contaba con la metodología para determinar el nivel de criticidad del personal, aplicable para la cadena productiva piscícola de los municipios Astrea, Chimichagua, Chiriguaná, Curumaní, Pailitas y Tamalameque de la ciénaga de la Zapatosa.
 
-![**Tabla 2.** Tiempo de desarrollo de las fases del proyecto. **Fuente: Elaboración propia.**](/IMAGES/Tabla_2.jpeg)
+![**Figura 3.** Flujograma PRISMA para la Revisión Sistemática implementada. **Fuente:** Elaboración propia.](/IMAGES/Figura_3.png)
 
-### 6. ANEXOS
+**Figura 3.** Flujograma PRISMA para la Revisión Sistemática implementada. **Fuente:** Elaboración propia.
 
-#### 6.1. Terminología
+El nivel de criticidad se define como “aquel cargo que resulta de vital importancia para la gestión de un área y/o negocio donde es imprescindible retener al ocupante del puesto o contar con cuadro de reemplazo” (Castro, 2016). Un cargo crítico se identifica cuando las funciones del puesto están ligadas a procesos que permiten mantener la continuidad operacional y evitar el alto costo de reemplazo. 
+
+Los cargos críticos permiten la sostenibilidad del negocio a largo plazo al implementar líneas estratégicas y preparación del personal (Castro, 2016), y tienen la finalidad de orientar adecuadamente las competencias identificadas para asegurar la correcta selección, formación y sucesión de los puestos; por ende, la permanencia de los mismos para la perdurabilidad del sistema de producción (Aragón & Monroy, 2009).
+
+Para determinar los puestos críticos se establecen distintos cargos como crítico y altamente crítico, definidos de la siguiente manera: 
+
+* Cargos críticos: asociados a procesos sensibles en términos de continuidad operacional o costo de reemplazo.
+* Cargos altamente críticos: asociados a procesos altamente sensibles en términos de continuidad operacional o alto costo de reemplazo.
+
+El autor del documento incluido indica las dimensiones que deben tenerse en cuenta para establecer el nivel de criticidad de un puesto tales como el costo de reemplazo y la continuidad operacional.
+
+* Costo de reemplazo: Tiempo incurrido en encontrar personas con los perfiles requeridos para ocupar el cargo (Tabla 1) y su procedencia (interno-externo); renta de mercado, el costo alternativo en relación con otros cargos de nivel equivalente y el tiempo que demora la persona en asumir el cargo con propiedad.
+
+**Tabla 1.** Perfiles requeridos para ocupar el cargo (Costo de reemplazo). **Fuente: Elaboración propia.**
+
+![**Tabla 1.** Perfiles requeridos para ocupar el cargo (Costo de reemplazo). **Fuente: Elaboración propia.**](/IMAGES/Tabla1.jpeg)
+
+* Continuidad operacional: Nivel de incidencia del cargo en resguardar, mantener y ejecutar procesos que impactan en las funciones y responsabilidades primarias de la institución (Tabla 2).
+
+**Tabla 2.** Responsabilidad requerida que se debe tener en el cargo (Continuidad operacional). **Fuente: Elaboración propia.**
+
+![**Tabla 2.** Responsabilidad requerida que se debe tener en el cargo (Continuidad operacional). **Fuente: Elaboración propia.**](/IMAGES/Tabla2.jpeg)
+
+A partir de las dos dimensiones se establece el nivel de criticidad de cada cargo como se observa en la Figura 4.
+
+![**Figura 4.** Nivel de criticidad de los cargos. **Fuente:** Elaboración propia.](/IMAGES/Figura_4.png)
+
+**Figura 4.** Nivel de criticidad de los cargos. **Fuente:** Elaboración propia.
+
+#### 2. Identificación de los eslabones de la cadena productiva piscícola y los cargos que se requieren dentro de ellos.
+
+Tras una búsqueda relacionada con el sistema alimentario de los municipios de la ciénaga de la Zapatosa, se encontró que éste se define como la suma de diversos elementos, actores y actividades que mediante sus interrelaciones hacen posible las cadenas productivas, influidos por factores económicos, geopolíticos, sociales y ambientales (FAO, 2017) como se observa en la Figura 5.
+
+![**Figura 5.** El sistema alimentario y sus componentes. **Fuente:** Elaboración propia.](/IMAGES/Figura_5.png)
+
+**Figura 5.** El sistema alimentario y sus componentes. **Fuente:** Elaboración propia.
+
+Las cadenas productivas son el conjunto de agentes y actividades (Cayeros, Robles, & Soto, 2016) desarrolladas en los diferentes eslabones que tratan de satisfacer al cliente final con una serie de funciones productivas, financieras, informativas y de análisis (Briz et al., 2009; Escribano et al., 2010). Las cadenas productivas están vinculadas y anidadas en ambientes dinámicos e interactivos ya que incluyen aspectos socioculturales, económicos, ambientales y políticos con múltiples actores involucrados de manera activa en los diferentes eslabones (FAO, 2017). Castellanos et al., (2001) afirman que, a partir de la revisión de esquemas previos desarrollados en otros estudios de cadenas productivas a nivel nacional, y a partir de la información primaria recolectada para los municipios de Astrea, Pailitas, Chimichagua, Chiriguaná, Curumaní y Tamalameque, se construyó el modelo de la cadena productiva piscícola como se evidencia en la Figura 6. 
+
+![**Figura 6.** Cadena productiva piscícola de los municipios de Astrea, Pailitas, Chimichagua, Chiriguaná, Curumaní y Tamalameque. **Fuente:** Elaboración propia.](/IMAGES/Figura_6.png)
+
+**Figura 6.** Cadena productiva piscícola de los municipios de Astrea, Pailitas, Chimichagua, Chiriguaná, Curumaní y Tamalameque. **Fuente:** Elaboración propia.
+
+En la Figura 6 se identifican los eslabones que componen la cadena productiva piscícola de la ciénaga, definidos como el conjunto de agrupaciones dentro de los cuales se realizan actividades económicas que cumplen diversas funciones en las que se reconocen actores que demandan u ofrecen productos con diferentes características de calidad, cantidad y oportunidad (Demenus et al., 2011; Cayeros et al., 2016). 
+
+Los eslabones de la cadena productiva piscícola son; en primer lugar, proveedores, quienes se encargan de suministrar los insumos necesarios (van Hoek, 2013) para el funcionamiento del sistema de producción tales como alevines, alimento, maquinaria; en segundo lugar, extracción y cultivo, donde se identifica la piscicultura en unidades campesinas; en tercer lugar, comercialización, conformado por distribuidores mayoristas y minoristas; y en cuarto lugar, consumidores, donde se evidencian actores locales (Ministerio de Comercio, Industria y Comercio et al., 2011).
+
+Los actores que se encuentran inmersos en la cadena productiva piscícola centran sus actividades para cumplir con el objetivo productivo establecido en cada eslabón (Campero, 2015), e intervienen en el proceso de transformación de un producto piscícola, desde su producción hasta que es comprado por parte de los consumidores finales (Simanca, Montoya, & Bernal, 2016). El SENA (2015) identificó los cargos de la cadena productiva junto con las funciones que se desempeñan y el nivel de estudios que debe tener la persona que ocupa ese cargo, por cada eslabón como se observa en la Tabla 3.
+
+**Tabla 3.** Perfiles ocupacionales de la cadena productiva piscícola. **Fuente: Elaboración propia.**
+
+![**Tabla 3.** Perfiles ocupacionales de la cadena productiva piscícola. **Fuente: Elaboración propia.**](/IMAGES/Tabla3.jpeg)
+
+#### 3. Encuesta para colectar datos.
+
+Una vez se identificó la metodología que establece el nivel de criticidad de los cargos, se generó la encuesta para ser respondida por expertos mediante la cual se buscaba priorizar cargos de la cadena a partir de los criterios que la metodología tiene en cuenta, de la siguiente manera:
+Por favor, a continuación seleccione el nivel de prioridad de cada cargo siendo 1 nivel de prioridad bajo, 2 nivel de prioridad medio, 3 nivel de prioridad alto, 4 nivel de prioridad muy alto. Seleccione 1 sola respuesta.
+•	Cargo Gerente general. Se entiende como el cargo diseñado para planear, controlar y direccionar las áreas administrativas, contables y operativas de la empresa, manteniendo un énfasis en el acompañamiento constante al Gerente Técnico con el fin de optimizar los procesos en el área de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Administrador del sistema de producción. Se entiende como el cargo diseñado para planificar, organizar, dirigir y controlar las operaciones del sistema de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Operario de producción. Se entiende como el cargo diseñado para supervisar y ejecutar las labores operativas propias del sistema de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Operario auxiliar. Se entiende como el cargo diseñado para ejecutar las labores propias del sistema de producción, así como las relacionadas con el proceso de sacrificio y arreglos locativos e infraestructura.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Contador. Se entiende como el cargo diseñado para la gestión financiera de la empresa, sistematizando la información contable para presentar los respectivos Estados Financieros con fines de análisis y disposiciones legales como impuestos, parafiscales, etc.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Zootecnista. Se entiende como el cargo diseñado para asesorar todo el proceso de crianza de mojarra roja con las tecnologías implementadas con el fin de maximizar la productividad, evitando enfermedades, así como mitigar el impacto ambiental propio del proceso de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Transportador. Se entiende como el cargo diseñado para el transporte y distribución del producto terminado a los distintos clientes.
+1.	1
+2.	2
+3.	3
+4.	4
+Establezca el perfil que usted como experto, considera que debe tener la persona al ocupar cada cargo. Seleccione 1 sola respuesta.
+•	Cargo Gerente general. Se entiende como el cargo diseñado para planear, controlar y direccionar las áreas administrativas, contables y operativas de la empresa, manteniendo un énfasis en el acompañamiento constante al Gerente Técnico con el fin de optimizar los procesos en el área de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Administrador del sistema de producción. Se entiende como el cargo diseñado para planificar, organizar, dirigir y controlar las operaciones del sistema de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Operario de producción. Se entiende como el cargo diseñado para supervisar y ejecutar las labores operativas propias del sistema de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Operario auxiliar. Se entiende como el cargo diseñado para ejecutar las labores propias del sistema de producción, así como las relacionadas con el proceso de sacrificio y arreglos locativos e infraestructura.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Contador. Se entiende como el cargo diseñado para la gestión financiera de la empresa, sistematizando la información contable para presentar los respectivos Estados Financieros con fines de análisis y disposiciones legales como impuestos, parafiscales, etc.
+1.	1
+2.	2 
+3.	3
+4.	4
+
+•	Cargo Zootecnista. Se entiende como el cargo diseñado para asesorar todo el proceso de crianza de mojarra roja con las tecnologías implementadas con el fin de maximizar la productividad, evitando enfermedades, así como mitigar el impacto ambiental propio del proceso de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Transportador. Se entiende como el cargo diseñado para el transporte y distribución del producto terminado a los distintos clientes.
+1.	1
+2.	2
+3.	3
+4.	4
+Establezca la responsabilidad que usted como experto, considera que tiene la persona al ocupar cada cargo. Seleccione 1 sola respuesta.
+•	Cargo Gerente general. Se entiende como el cargo diseñado para planear, controlar y direccionar las áreas administrativas, contables y operativas de la empresa, manteniendo un énfasis en el acompañamiento constante al Gerente Técnico con el fin de optimizar los procesos en el área de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Administrador del sistema de producción. Se entiende como el cargo diseñado para planificar, organizar, dirigir y controlar las operaciones del sistema de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Operario de producción. Se entiende como el cargo diseñado para supervisar y ejecutar las labores operativas propias del sistema de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Operario auxiliar. Se entiende como el cargo diseñado para ejecutar las labores propias del sistema de producción, así como las relacionadas con el proceso de sacrificio y arreglos locativos e infraestructura.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Contador. Se entiende como el cargo diseñado para la gestión financiera de la empresa, sistematizando la información contable para presentar los respectivos Estados Financieros con fines de análisis y disposiciones legales como impuestos, parafiscales, etc.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Zootecnista. Se entiende como el cargo diseñado para asesorar todo el proceso de crianza de mojarra roja con las tecnologías implementadas con el fin de maximizar la productividad, evitando enfermedades, así como mitigar el impacto ambiental propio del proceso de producción.
+1.	1
+2.	2
+3.	3
+4.	4
+
+•	Cargo Transportador. Se entiende como el cargo diseñado para el transporte y distribución del producto terminado a los distintos clientes.
+1.	1
+2.	2
+3.	3
+4.	4
+
+### ANEXOS
+
+#### Terminología
 
 **Riesgo:** "Potencial de consecuencias en que algo de valor está en peligro con un desenlace incierto, reconociendo la diversidad de valores. A menudo el riesgo se representa como la probabilidad de acaecimiento de sucesos o tendencias peligrosas multiplicada por los impactos en caso de que ocurran tales sucesos o tendencias. Los riesgos resultan de la interacción de la vulnerabilidad, la exposición y el peligro. En el presente informe, el término riesgo se utiliza principalmente en referencia a los riesgos de impactos del cambio climático" (DNP, 2018).
 
@@ -104,11 +286,23 @@ En el marco del desarrollo de las actividades académicas, las estimaciones de t
 
 **Impactos:** "Efectos en los sistemas naturales y humanos. En el presente informe, el término impactos se emplea principalmente para describir los efectos sobre los sistemas naturales y humanos de episodios meteorológicos y climáticos extremos y del cambio climático. Los impactos generalmente se refieren a efectos en las vidas, medios de subsistencia, salud, ecosistemas, economías, sociedades, culturas, servicios e infraestructuras debido a la interacción de los cambios climáticos o fenómenos climáticos peligrosos que ocurren en un lapso de tiempo específico y a la vulnerabilidad de las sociedades o los sistemas expuestos a ellos. Los impactos también se denominan consecuencias y resultados. Los impactos del cambio climático sobre los sistemas geofísicos, incluidas las inundaciones, las sequías y la elevación del nivel del mar, son un subconjunto de los impactos denominados impactos físicos" (IPCC, 2014).
 
-#### 6.2. REFERENCIAS
+### REFERENCIAS
+
+Aragón, S. Y., & Monroy, E. M. (2009). Administración del talento humano para cargos críticos caso grupo honor y laurel: Metodologia propuesta para empresas de servicios de seguridad. Facultad de Administración Universidad Del Rosario, 2(5), 230–255. Retrieved from http://repository.urosario.edu.co/bitstream/10336/1634/1/
+
+Briz, J., Felipe, I. DE, & Briz, T. (2020). Reflexiones sobre el impacto de la COVID-19 en la cadena de valor alimentaria. Distribución y Consumo, 2, 55–60. Retrieved from https://www.mercasa.es/media/publicaciones/278/Reflexiones_sobre_el_impacto_de_la_COVID-19_en_la_cadena_de_valor_alimentaria.pdf
+
+Campero, E. (2015). Las cadenas productivas como fuente de oportunidades para emprendedores en el medio rural. Ingeniería Solidaria, 11(18), 75–85. https://doi.org/10.16925/in.v11i18.993
+
+Castellanos O.F., Fúquene A.M., Fonseca S.L., Ramírez D.C., Giraldo P., Valencia M.F. (2011). Estudio de la cadena productiva de la pesca y la piscicultura en la Ciénaga de la Zapatosa. Ministerio de Comercio, Industria y Comercio, Universidad Nacional de Colombia Disponible en: https://www.scribd.com/document/80296507/Estudio-de-la-Cadena-Productiva-de-la-Pesca-y-la-Piscicultura-en-la-Cienaga-de-la-Zapatosa-Cesar.
 
 Cayeros, S. E., Robles, F. J., & Soto, E. (2016). Cadenas productivas y cadenas de valor. EDUCATECONCIENCIA, 10, No 11(11).
 
 CEPAL, & FAO. (2020). Cómo evitar que la crisis del COVID-19 se transforme en una crisis alimentaria (pp. 1–33). pp. 1–33.
+
+Cué M. & Oramas J. (2008). Síntesis de información y artículos de revisión. Disponible en: http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1024-94352008000200007
+
+DANE (2016). 3er Censo Agropecuario Nacional – Censo Nacional Agropecuario 2014. Ministerio de Agricultura. Disponible en: https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/censo-nacional-agropecuario-2014#1
 
 DNP (2018). ÍNDICE MUNICIPAL DE RIESGO DE DESASTRES AJUSTADO POR CAPACIDADES.
 
@@ -118,276 +312,9 @@ FAO. (2017). Reflexiones sobre el sistema alimentario y perspectivas para alcanz
 
 FAO. (2020). Sistemas alimentarios y COVID-19 en América Latina y el Caribe : Cómo disminuir las pérdidas y desperdicios de alimentos Boletín N . ° 9 Índice. 1–23.
 
-IPCC. (2014). Cambio climático 2014: Impactos, adaptación y vulnerabilidad.
+FAO, & OMS. (2020). COVID-19 e inocuidad de los alimentos: orientaciones para las empresas alimentarias. Orientaciones provisionales. COVID-19 e Inocuidad de Los Alimentos: Orientaciones Para Las Empresas Alimentarias. Orientaciones Provisionales, 1–7. https://doi.org/10.4060/ca8660es
 
-Lekha, C., Ahmed, T., Ahmed, S., Mithun, S., Moktadir, A., & Kabir, G. (2020). Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID- 19 . The COVID-19 resource centre is hosted on Elsevier Connect , the company ’ s public news and information website .
-
-Rizou, M., Galanakis, I. M., Aldawoud, T. M. S., & Galanakis, C. M. (2020). Trends in Food Science & Technology Safety of foods , food supply chain and environment within the COVID-19 pandemic. Trends in Food Science & Technology, 102(June), 293–299. https://doi.org/10.1016/j.tifs.2020.06.008
-
-Udmale, P., Pal, I., Szabo, S., Pramanik, M., & Large, A. (2020). Progress in Disaster Science Global food security in the context of COVID-19 : A 			scenario-based exploratory analysis. Progress in Disaster Science, 7, 100120. https://doi.org/10.1016/j.pdisas.2020.100120
-
-## ENTREGABLE 2
-
-### 1. ENTENDIMIENTO DE LOS DATOS
-
-Se cuenta con los datos abiertos aportados por el Instituto Nacional de Salud en los que se muestran los casos de contagio por COVID-19; adicionalmente, se tienen los datos de caracterización de la cadena productiva piscícola en el Departamento del Cesar. Por otro lado, se requiere información que debe ser aportada por la Gobernación del Departamento del Cesar, así como hacerse levantamiento en campo de otros datos (Tabla 1).
-
-**Tabla 1.** Datos existentes, adquiridos y adicionales para el desarrollo del proyecto.
-
-![**Tabla 1.** Datos existentes, adquiridos y adicionales para el desarrollo del proyecto. **Fuente: Elaboración propia.**](/IMAGES/TABLA_1.png)
-
-#### 1.1. INS
-
-El INS proporciona datos abiertos sobre los casos positivos de COVID-19 en los departamentos y municipios de Colombia, se realizó un filtro en la base de datos para obtener los datos correspondientes al Departamento del Cesar en la cual se encontraron las siguientes variables:
-
-'Fecha reporte web', 'ID de caso', 'Fecha de notificación','Código DIVIPOLA departamento', 'Nombre departamento','Código DIVIPOLA municipio', 'Nombre municipio', 'Edad', 'Unidad de medida de edad', 'Sexo', 'Tipo de contagio', 'Ubicación del caso', 'Estado', 'Código ISO del país', 'Nombre del país', 'Recuperado', 'Fecha de inicio de síntomas', 'Fecha de muerte', 'Fecha de diagnóstico', 'Fecha de recuperación’, ‘Tipo de recuperación', 'Pertenencia étnica', 'Nombre del grupo étnico'
-
-De estas variables, aquellas de mayor interés para el desarrollo del proyecto son:
-
-'Código DIVIPOLA municipio', 'Nombre municipio', 'Edad', 'Sexo', 'Tipo de contagio', 'Ubicación del caso', 'Estado', caracterizadas de la siguiente manera (Tabla 2):
-
-**Tabla 2.** Caracterización de las variables de interés de la base de datos del INS.
-
-![**Tabla 2.** Caracterización de las variables de interés de la base de datos del INS. **Fuente: Elaboración propia.**](/IMAGES/TABLA_2.png)
-
-Al comenzar a caracterizar cada una de las variables, se encontraron una serie de errores los cuales fueron corregidos para la columna correspondiente como se muestra en la siguiente tabla (Tabla 3).
-
-**Tabla 3.** Correcciones realizadas en la base de datos filtrada.
-
-![**Tabla 3.** Correcciones realizadas en la base de datos filtrada. **Fuente: Elaboración propia.**](/IMAGES/TABLA_3.png)
-
-#### 1.1.1. Descripción variables
-
-A continuación, se muestran algunas características de las variables.
-
-* **Código DIVIPOLA municipio**
-Este campo contiene los 5 dígitos, los 2 primeros hacen referencia al departamento y los otros 3 al municipio.
-
-![](/IMAGES/Imagen1.png)
-
-**Imagen 1.** Código DIVIPOLA municipio.
-
-* **Nombre municipio**
-
-![](/IMAGES/Imagen2.png)
-
-**Imagen 2.** Nombre de los municipios.
-
-![](/IMAGES/Imagen3.png)
-
-**Imagen 3.** Frecuencia absoluta de casos positivos de COVID-19 por municipio.
-
-![](/IMAGES/Imagen4.png)
-
-**Imagen 4.** Histograma de casos positivos de COVID-19 por municipio.
-
-* **Edad**
-
-![](/IMAGES/Imagen5.png)
-
-**Imagen 5.** Edad de las personas positivas para COVID-19.
-
-![](/IMAGES/Imagen6.png)
-
-**Imagen 6.** Frecuencia absoluta de la edad de las personas positivas para COVID-19.
-
-![](/IMAGES/Imagen7.png)
-
-**Imagen 7.** Histograma de la edad de las personas positivas para COVID-19.
-
-* **Sexo**
-
-![](/IMAGES/Imagen8.png)
-
-**Imagen 8.** Género de las personas positivas para COVID-19.
-
-![](/IMAGES/Imagen9.png)
-
-**Imagen 9.** Frecuencia absoluta de género de las personas positivas para COVID-19.
-
-![](/IMAGES/Imagen10.png)
-
-**Imagen 10.** Histograma del género de las personas positivas para COVID-19.
-
-* **Tipo de contagio**
-
-![](/IMAGES/Imagen11.png)
-
-**Imagen 11.** Tipo de contagio de las personas positivas para COVID-19.
-
-![](/IMAGES/Imagen12.png)
-
-**Imagen 12.** Frecuencia absoluta del tipo de contagio de las personas positivas para COVID-19.
-
-![](/IMAGES/Imagen13.png)
-
-**Imagen 13.** Histograma del tipo de contagio de las personas positivas para COVID-19.
-
-* **Ubicación del caso**
-
-![](/IMAGES/Imagen14.png)
-
-**Imagen 14.** Ubicación de las personas contagiadas por COVID-19.
-
-![](/IMAGES/Imagen15.png)
-
-**Imagen 15.** Frecuencia absoluta de la ubicación de las personas contagiadas por COVID-19.
-
-![](/IMAGES/Imagen16.png)
-
-**Imagen 16.** Histograma de la ubicación de las personas contagiadas por COVID-19.
-
-* **Estado**
-
-![](/IMAGES/Imagen17.png)
-
-**Imagen 17.** Estado de las personas contagiadas por COVID-19.
-
-![](/IMAGES/Imagen18.png)
-
-**Imagen 18.** Frecuencia absoluta del estado de las personas contagiadas por COVID-19.
-
-![](/IMAGES/Imagen19.png)
-
-**Imagen 19.** Histograma del estado de las personas contagiadas por COVID-19.
-
-#### 1.2. DANE
-
-El DANE aporta los datos sobre el Censo Nacional Agropecuario (CNA) por cada departamento de Colombia, por lo tanto, se descargó la base de datos relacionada al departamento del Cesar en la cual se encontró la siguiente información (Tabla 4).
-
-**Tabla 4.** Caracterización de las variables de la base de datos del CNA. **Fuente:** Adaptada del DANE.
-
-![**Tabla 4.** Caracterización de las variables de la base de datos del CNA. **Fuente: Adaptada del DANE.**](/IMAGES/TABLA_4.png)
-
-#### 1.3. MINISTERIO DE COMERCIO, INDUSTRIA Y TURISMO, PROYECTO DE DESARROLLO LOCAL Y COMERCIO EN COLOMBIA, UNIVERSIDAD NACIONAL DE COLOMBIA
-
-En el documento desarrollado por el Ministerio de Comercio (MCIT), Industria y Turismo, Proyecto de Desarrollo Local y Comercio (DELCO) y la Universidad Nacional de Colombia (UNAL), se caracterizó la cadena productiva piscícola en la ciénaga de la Zapatosa en el año 2011, de donde se extrajeron las siguientes tablas con información que puede ser de interés:
-
-**Tabla 5.** Producción piscícola estimada en los municipios relacionados con la región de la ciénaga de la Zapatosa. **Fuente:** Adaptada del MCIT, DELCO, UNAL (2011).
-
-![**Tabla 5.** Producción piscícola estimada en los municipios relacionados con la región de la ciénaga de la Zapatosa. **Fuente: Adaptada del MCIT, DELCO, UNAL (2011).**](/IMAGES/TABLA_5.png)
-
-**Tabla 6.** Unidades piscícolas identificadas en los municipios de la región de la Ciénaga de la Zapatosa. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente:** Tomada del MCIT, DELCO, UNAL (2011).
-
-![**Tabla 6.** Unidades piscícolas identificadas en los municipios de la región de la Ciénaga de la Zapatosa. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente: Tomada del MCIT, DELCO, UNAL (2011).**](/IMAGES/TABLA_6.png)
-
-**Tabla 7.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente:** Adaptada del MCIT, DELCO, UNAL (2011).
-
-![**Tabla 7.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente: Adaptada del MCIT, DELCO, UNAL (2011).**](/IMAGES/TABLA_7.png)
-
-## ENTREGABLE 3
-
-### 1. CONFIGURACIÓN DE META-DATOS
-
-Se hicieron dos búsquedas; la primera relacionada con el COVID-19; la segunda, enfocada a la cadena piscícola en Colombia. Se escogieron las páginas, documentos y demás publicaciones que tuvieran datos numéricos principalmente.
-Se plantearon las siguientes preguntas: 
-
-**Tabla 1.** Preguntas formuladas para la búsqueda de información. **Fuente:** Elaboración Propia.
-
-![**Tabla 1.** Preguntas formuladas para la búsqueda de información. **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.1.png)
-
-### 2. DIAGRAMA DE FLUJO
-
-![**Figura 1.** Diagrama de flujo para el Análisis Inicial de Datos (AID). **Fuente:** Elaboración propia.](/IMAGES/FIGURA_3.1.png)
-
-**Figura 1.** Diagrama de flujo para el Análisis Inicial de Datos (AID). **Fuente:** Elaboración propia.
-
-### 3. PROCESAMIENTO DE DATOS Y LIMPIEZA
-
-#### 3.1 DATOS EXISTENTES
-
-##### 3.1.1 INS
-
-###### Casos positivos COVID-19 Colombia
-
-**Tabla 2.** Variables de la base de datos “Casos positivos COVID-19” en los departamentos de Colombia (2020-2021). **Fuente:** Elaboración Propia.
-
-![**Tabla 2.** Variables de la base de datos “Casos positivos COVID-19” en los departamentos de Colombia (2020-2021). **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.2.png)
-
-De estas variables, aquellas de mayor interés para el desarrollo del proyecto son: 'Código DIVIPOLA municipio', 'Nombre municipio', 'Edad', 'Sexo', 'Tipo de contagio', 'Ubicación del caso', 'Estado', caracterizadas de la siguiente manera (Tabla 3).
-
-**Tabla 3.** Caracterización de las variables de interés de la base de datos del INS. **Fuente:** Elaboración Propia.
-
-![**Tabla 3.** Caracterización de las variables de interés de la base de datos del INS. **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.3.png)
-
-Al comenzar a caracterizar cada una de las variables, se encontraron una serie de errores los cuales fueron corregidos para la columna correspondiente como se muestra en la siguiente tabla (Tabla 4).
-
-**Tabla 4.** Caracterización de las variables de interés de la base de datos del INS. **Fuente:** Elaboración Propia.
-
-![**Tabla 4.** Caracterización de las variables de interés de la base de datos del INS. **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.4.png)
-
-###### Casos COVID-19 Colombia
-
-**Tabla 5.** Casos COVID-19 en los departamentos de Colombia (2020-2021). Tomada de: INS (2021). **Fuente:** Tomada del INS (2021).
-
-![**Tabla 5.** Casos COVID-19 en los departamentos de Colombia (2020-2021). Tomada de: INS (2021). **Fuente: Tomada del INS (2021) **](/IMAGES/TABLA_3.5.png)
-
-![**Figura 2.** Diagrama de flujo para el Análisis Inicial de Datos (AID). **Fuente:** Elaboración propia.](/IMAGES/FIGURA_3.2.png)
-
-**Figura 2.** Diagrama de flujo para el Análisis Inicial de Datos (AID). **Fuente:** Elaboración propia.
-
-###### Estudio Nacional de Seroprevalencia de SARS-CoV-2
-
-**Tabla 6.** Seroprevalencia de SARS-CoV-2 en algunos municipios de Colombia. Tomada de: INS (2021). **Fuente:** Tomada del INS (2021).
-
-![**Tabla 6.** Seroprevalencia de SARS-CoV-2 en algunos municipios de Colombia. Tomada de: INS (2021). **Fuente: Tomada del INS (2021).**](/IMAGES/TABLA_3.6.png)
-
-##### 3.1.2 DANE
-
-###### Censo Nacional Agropecuario
-
-**Tabla 7.** Variables de la base de datos “Censo Nacional Agropecuario 2014”. Tomada de: DANE (2016). **Fuente:** Tomada del DANE (2016).
-
-![**Tabla 7.** Variables de la base de datos “Censo Nacional Agropecuario 2014”. Tomada de: DANE (2016). **Fuente: Tomada del DANE (2016).**](/IMAGES/TABLA_3.7.png)
-
-##### 3.1.3 MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL
-
-###### IREM
-
-**Tabla 8.** IREM de algunos municipios de Colombia con fecha de actualización el 01 de Julio de 2021. Tomada de: MinSalud (2021). **Fuente:** Tomada del MinSalud (2021).
-
-![**Tabla 8.** IREM de algunos municipios de Colombia con fecha de actualización el 01 de Julio de 2021. Tomada de: MinSalud (2021). **Fuente: Tomada del MinSalud (2021).**](/IMAGES/TABLA_3.8.png)
-
-###### Capacidad de UCI en Colombia
-
-![**Figura 3.** Porcentaje de disponibilidad UCI por departamento. **Fuente:** MinSalud (2021)](/IMAGES/FIGURA_3.3.png)
-
-**Figura 3.** Porcentaje de disponibilidad UCI por departamento. **Fuente:** MinSalud (2021)
-
-###### Vacunación contra COVID-19
-
-**Tabla 9.** Esquemas completos aplicados contra COVID-19. Tomada de: MinSalud (2021). **Fuente:** Tomada del MinSalud (2021).
-
-![**Tabla 9.** Esquemas completos aplicados contra COVID-19. Tomada de: MinSalud (2021). **Fuente: Tomada del MinSalud (2021).**](/IMAGES/TABLA_3.9.png)
-
-#### 3.1 DATOS ADICIONALES
-
-###### Estudio de la cadena productiva de la pesca y piscicultura en la ciénaga de la Zapatosa.
-
-**Tabla 10.** Producción piscícola estimada en los municipios relacionados con la región de la ciénaga de la Zapatosa. Tomada de: Adaptada del MCIT, DELCO, UNAL (2011). **Fuente:** Tomada del MCIT, DELCO, UNAL (2011).
-
-![**Tabla 10.** Producción piscícola estimada en los municipios relacionados con la región de la ciénaga de la Zapatosa. **Fuente: Tomada del MCIT, DELCO, UNAL (2011).
-**](/IMAGES/TABLA_3.10.png)
-
-**Tabla 11.** Unidades piscícolas identificadas en los municipios de la región de la Ciénaga de la Zapatosa. Tomada de: MCIT, DELCO, UNAL (2011). **Fuente:** Tomada del MCIT, DELCO, UNAL (2011).
-
-![**Tabla 11.** Unidades piscícolas identificadas en los municipios de la región de la Ciénaga de la Zapatosa. **Fuente: Tomada del MCIT, DELCO, UNAL (2011).
-**](/IMAGES/TABLA_3.11.png)
-
-**Tabla 12.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). Tomada de: Adaptada del MCIT, DELCO, UNAL (2011). **Fuente:** Tomada del MCIT, DELCO, UNAL (2011).
-
-![**Tabla 12.** Canales de comercialización identificados en la región. Tomado de: MCIT, DELCO, UNAL (2011). **Fuente: Tomada del MCIT, DELCO, UNAL (2011).
-**](/IMAGES/TABLA_3.12.png)
-
-### 4. FILTRADO/SELECCIÓN DE DATOS
-
-El filtro y selección de documentos y bases de datos (Tabla 13), se generó teniendo en cuenta en primera instancia los criterios de inclusión; los documentos y bases de datos que cumplieron con por lo menos uno de los criterios fueron incluidos. En segunda instancia, los documentos y bases de datos filtrados que obedecieron al criterio de exclusión, no se tuvieron en cuenta.
-
-**Tabla 13.** Documentos y bases de datos que cumplieron los criterios de inclusión y de exclusión. **Fuente:** Elaboración Propia.
-
-![**Tabla 13.** Documentos y bases de datos que cumplieron los criterios de inclusión y de exclusión. **Fuente: Elaboración Propia**](/IMAGES/TABLA_3.13.png)
-
-#### REFERENCIAS
+Hutton, B., Catalá-López, F., & Moher, D. (2016). La extensión de la declaración PRISMA para revisiones sistemáticas que incorporan metaanálisis en red: PRISMA-NMA. Medicina Clinica, 147(6), 262–266. https://doi.org/10.1016/j.medcli.2016.02.025
 
 INS. [Fecha de revisión: Julio de 2021]. Casos positivos de COVID-19 en Colombia. Disponible en: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
 
@@ -395,10 +322,36 @@ INS. [Fecha de revisión: Julio de 2021]. Casos COVID-19. Colombia, 2020-2021. D
 
 INS. [Fecha de revisión: Julio de 2021]. Estudio Nacional de Seroprevalencia durante la pandemia en Colombia. Disponible en: https://www.ins.gov.co/estudio-nacional-de-seroprevalencia/reporte.html
 
-DANE (2016). 3er Censo Agropecuario Nacional – Censo Nacional Agropecuario 2014. Ministerio de Agricultura. Disponible en: https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/censo-nacional-agropecuario-2014#1
+IPCC. (2014). Cambio climático 2014: Impactos, adaptación y vulnerabilidad.
+
+Kouato, B. S., De Clercq, K., Abatih, E., Dal Pozzo, F., King, D. P., Thys, E., … Saegerman, C. (2018). Review of epidemiological risk models for foot-and-mouth disease: Implications for prevention strategies with a focus on Africa. PLoS ONE, 13(12), 1–22. https://doi.org/10.1371/journal.pone.0208296
+
+Lekha, C., Ahmed, T., Ahmed, S., Mithun, S., Moktadir, A., & Kabir, G. (2020). Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID- 19 . The COVID-19 resource centre is hosted on Elsevier Connect , the company ’ s public news and information website .
+
+Mackarena Castro. (2016). Plan de sucesión en cargos críticos de Profesionales Especialistas y su impacto en la percepción de Rotación Voluntaria. 147, 11–40.
 
 Ministerio de Salud y Protección Social. [Fecha de revisión: Julio de 2021]. Índice de Resiliencia Epidemiológica Municipal. Disponible en: https://www.minsalud.gov.co/salud/publica/PET/Paginas/indice-de-Resiliencia-Epidemiologica-Municipal.aspx
 
 Ministerio de Salud y Protección Social. [Fecha de revisión: Julio de 2021]. Comportamiento del virus en Colombia: Capacidad de UCIS. Disponible en: https://coronaviruscolombia.gov.co/Covid19/estadisticas-covid-19/ucis.html
 
 Ministerio de Comercio, Industria y Turismo, Proyecto de Desarrollo Local y Comercio en Colombia, Universidad Nacional de Colombia (2011). Estudio de la cadena productiva de la pesca y piscicultura en la ciénaga de la Zapatosa. Disponible en: https://www.scribd.com/document/80296507/Estudio-de-la-Cadena-Productiva-de-la-Pesca-y-la-Piscicultura-en-la-Cienaga-de-la-Zapatosa-Cesar
+
+OECD (2020). The territorial impact of COVID-19: Managing the crisis across levels of government. Tackling coronavirus (COVID-19).
+
+Rizou, M., Galanakis, I. M., Aldawoud, T. M. S., & Galanakis, C. M. (2020). Trends in Food Science & Technology Safety of foods , food supply chain and environment within the COVID-19 pandemic. Trends in Food Science & Technology, 102(June), 293–299. https://doi.org/10.1016/j.tifs.2020.06.008
+
+Romero, J. (2020). El Impacto Del Covid-19 En La Cadena Alimentaria Y El Suministro De Alimentos. 18.
+
+SENA. (2015). Informe De Mapa Y Perfiles Ocupacionales Del Sector Acuícola.
+
+Simanca, M. M., Montoya, L. A., & Bernal, C. A. (2016). Gestión del Conocimiento en Cadenas Productivas. El Caso de la Cadena Láctea en Colombia. Informacion Tecnologica, 27(3), 93–106. https://doi.org/10.4067/S0718-07642016000300009
+
+Udmale, P., Pal, I., Szabo, S., Pramanik, M., & Large, A. (2020). Progress in Disaster Science Global food security in the context of COVID-19 : A 			scenario-based exploratory analysis. Progress in Disaster Science, 7, 100120. https://doi.org/10.1016/j.pdisas.2020.100120
+
+Universidad Cooperativa de Colombia. (2020). Plan De Negocios Para La Cría, Producción Y Comercialización De Pescado. Journal of Chemical Information and Modeling, 2(1), 5–7. Retrieved from http://jurnal.globalhealthsciencegroup.com/index.php/JPPP/article/download/83/65%0Ahttp://www.embase.com/search/results?subaction=viewrecord&from=export&id=L603546864%5Cnhttp://dx.doi.org/10.1155/2015/420723%0Ahttp://link.springer.com/10.1007/978-3-319-76
+
+Universidad Nacional de Colombia (2021). CONVOCATORIA DEL FONDO CTEI DEL SGR PARA EL FORTALECIMIENTO DE CAPACIDADES DE INVESTIGACIÓN Y DESARROLLO REGIONALES E INICIATIVAS DE DESARROLLO Y TRANSFERENCIA DE TECNOLOGÍA Y CONOCIMIENTO PARA LA INNOVACIÓN, ORIENTADAS A ATENDER PROBLEMÁTICAS DERIVADAS DEL COVID-19. 
+
+Urrutía, G., & Bonfill, X. (2010). Declaración PRISMA : una propuesta para mejorar la publicación de revisiones sistemáticas y metaanálisis. 135(11), 507–511. https://doi.org/10.1016/j.medcli.2010.01.015
+
+van Hoek, R. (2013). Supplier Relationship Management: How key suppliers drive your company’s competitive advantage. Price Waterhouse Coopers, 44.
