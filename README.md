@@ -102,13 +102,13 @@ El autor del documento incluido indica las dimensiones que deben tenerse en cuen
 
 **Tabla 1.** Perfiles requeridos para ocupar el cargo (Costo de reemplazo). **Fuente: Elaboración propia.**
 
-![**Tabla 1.** Perfiles requeridos para ocupar el cargo (Costo de reemplazo). **Fuente: Elaboración propia.**](/IMAGES/Tabla1.jpeg)
+![**Tabla 1.** Perfiles requeridos para ocupar el cargo (Costo de reemplazo). **Fuente: Elaboración propia.**](/IMAGES/Tabla1.png)
 
 * Continuidad operacional: Nivel de incidencia del cargo en resguardar, mantener y ejecutar procesos que impactan en las funciones y responsabilidades primarias de la institución (Tabla 2).
 
 **Tabla 2.** Responsabilidad requerida que se debe tener en el cargo (Continuidad operacional). **Fuente: Elaboración propia.**
 
-![**Tabla 2.** Responsabilidad requerida que se debe tener en el cargo (Continuidad operacional). **Fuente: Elaboración propia.**](/IMAGES/Tabla2.jpeg)
+![**Tabla 2.** Responsabilidad requerida que se debe tener en el cargo (Continuidad operacional). **Fuente: Elaboración propia.**](/IMAGES/Tabla2.png)
 
 A partir de las dos dimensiones se establece el nivel de criticidad de cada cargo como se observa en la Figura 4.
 
@@ -138,7 +138,7 @@ Los actores que se encuentran inmersos en la cadena productiva piscícola centra
 
 **Tabla 3.** Perfiles ocupacionales de la cadena productiva piscícola. **Fuente: Elaboración propia.**
 
-![**Tabla 3.** Perfiles ocupacionales de la cadena productiva piscícola. **Fuente: Elaboración propia.**](/IMAGES/Tabla3.jpeg)
+![**Tabla 3.** Perfiles ocupacionales de la cadena productiva piscícola. **Fuente: Elaboración propia.**](/IMAGES/Tabla3.png)
 
 ### 3. Encuesta para colectar datos.
 
