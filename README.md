@@ -180,17 +180,17 @@ Los actores que se encuentran inmersos en la cadena productiva piscícola centra
 
 ![**Tabla 3.11** Técnico acuícola en sistemas de levante y engorde. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.11.png)
 
-**Tabla 3.12** Director de Planta de procesamiento de alimentos. **Fuente**: Elaboración propia.
+**Tabla 3.12** Director de Planta de procesamiento de alimentos.
 
-![**Tabla 3.12** Director de Planta de procesamiento de alimentos. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.12.png)
+![**Tabla 3.12** Director de Planta de procesamiento de alimentos.](/IMAGES/Tabla3.12.png)
 
-**Tabla 3.13** Jefe de laboratorio de alimentos. **Fuente**: Elaboración propia.
+**Tabla 3.13** Jefe de laboratorio de alimentos.
 
-![**Tabla 3.13** Jefe de laboratorio de alimentos. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.13.png)
+![**Tabla 3.13** Jefe de laboratorio de alimentos.](/IMAGES/Tabla3.13.png)
 
-**Tabla 3.14** Conductores de transporte de alimentos. **Fuente**: Elaboración propia.
+**Tabla 3.14** Conductores de transporte de alimentos. 
 
-![**Tabla 3.14** Conductores de transporte de alimentos. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.14.png)
+![**Tabla 3.14** Conductores de transporte de alimentos.](/IMAGES/Tabla3.14.png)
 
 ### 3. Encuesta para colectar datos.
 
