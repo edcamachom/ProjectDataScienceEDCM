@@ -134,11 +134,63 @@ En la Figura 6 se identifican los eslabones que componen la cadena productiva pi
 
 Los eslabones de la cadena productiva piscícola son; en primer lugar, proveedores, quienes se encargan de suministrar los insumos necesarios (van Hoek, 2013) para el funcionamiento del sistema de producción tales como alevines, alimento, maquinaria; en segundo lugar, extracción y cultivo, donde se identifica la piscicultura en unidades campesinas; en tercer lugar, comercialización, conformado por distribuidores mayoristas y minoristas; y en cuarto lugar, consumidores, donde se evidencian actores locales (Ministerio de Comercio, Industria y Comercio et al., 2011).
 
-Los actores que se encuentran inmersos en la cadena productiva piscícola centran sus actividades para cumplir con el objetivo productivo establecido en cada eslabón (Campero, 2015), e intervienen en el proceso de transformación de un producto piscícola, desde su producción hasta que es comprado por parte de los consumidores finales (Simanca, Montoya, & Bernal, 2016). El SENA (2015) identificó los cargos de la cadena productiva junto con las funciones que se desempeñan y el nivel de estudios que debe tener la persona que ocupa ese cargo, por cada eslabón como se observa en la Tabla 3.
+Los actores que se encuentran inmersos en la cadena productiva piscícola centran sus actividades para cumplir con el objetivo productivo establecido en cada eslabón (Campero, 2015), e intervienen en el proceso de transformación de un producto piscícola, desde su producción hasta que es comprado por parte de los consumidores finales (Simanca, Montoya, & Bernal, 2016). El SENA (2015) identificó los cargos de la cadena productiva junto con las funciones que se desempeñan y el nivel de estudios que debe tener la persona que ocupa ese cargo, por cada eslabón como se observa en las Tabla 3.
 
-**Tabla 3.** Perfiles ocupacionales de la cadena productiva piscícola. **Fuente: Elaboración propia.**
+**Tabla 3.1** Gerente de producción pecuaria o acuícola. **Fuente**: Elaboración propia.
 
-![**Tabla 3.** Perfiles ocupacionales de la cadena productiva piscícola. **Fuente: Elaboración propia.**](/IMAGES/Tabla3.png)
+![**Tabla 3.1** Gerente de producción pecuaria o acuícola. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.1.png)
+
+**Tabla 3.2** Administrador de explotación acuícola. **Fuente**: Elaboración propia.
+
+![**Tabla 3.2** Administrador de explotación acuícola. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.2.png)
+
+**Tabla 3.3** Técnicos en prevención y control ambiental. **Fuente**: Elaboración propia.
+
+![**Tabla 3.3** Técnicos en prevención y control ambiental. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.3.png)
+
+**Tabla 3.4** Obreros de acuicultura. **Fuente**: Elaboración propia.
+
+![**Tabla 3.4** Obreros de acuicultura. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.4.png)
+
+**Tabla 3.5** Auxiliares de laboratorio. **Fuente**: Elaboración propia.
+
+![**Tabla 3.5** Auxiliares de laboratorio. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.5.png)
+
+**Tabla 3.6** Auxiliares de almacén y bodega. **Fuente**: Elaboración propia.
+
+![**Tabla 3.6** Auxiliares de almacén y bodega. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.6.png)
+
+**Tabla 3.7** Operarios de planta de procesamiento y empaque de pescado. **Fuente**: Elaboración propia.
+
+![**Tabla 3.7** Operarios de planta de procesamiento y empaque de pescado. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.7.png)
+
+**Tabla 3.8** Supervisores de procesamiento de alimentos. **Fuente**: Elaboración propia.
+
+![**Tabla 3.8** Supervisores de procesamiento de alimentos. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.8.png)
+
+**Tabla 3.9** Inspectores de control de calidad, procesamiento de alimentos. **Fuente**: Elaboración propia.
+
+![**Tabla 3.9** Inspectores de control de calidad, procesamiento de alimentos. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.9.png)
+
+**Tabla 3.10** Técnico acuícola en sistemas de reproducción. **Fuente**: Elaboración propia.
+
+![**Tabla 3.10** Técnico acuícola en sistemas de reproducción. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.10.png)
+
+**Tabla 3.11** Técnico acuícola en sistemas de levante y engorde. **Fuente**: Elaboración propia.
+
+![**Tabla 3.11** Técnico acuícola en sistemas de levante y engorde. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.11.png)
+
+**Tabla 3.12** Director de Planta de procesamiento de alimentos. **Fuente**: Elaboración propia.
+
+![**Tabla 3.12** Director de Planta de procesamiento de alimentos. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.12.png)
+
+**Tabla 3.13** Jefe de laboratorio de alimentos. **Fuente**: Elaboración propia.
+
+![**Tabla 3.13** Jefe de laboratorio de alimentos. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.13.png)
+
+**Tabla 3.14** Conductores de transporte de alimentos. **Fuente**: Elaboración propia.
+
+![**Tabla 3.14** Conductores de transporte de alimentos. **Fuente**: Elaboración propia.](/IMAGES/Tabla3.14.png)
 
 ### 3. Encuesta para colectar datos.
 
