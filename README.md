@@ -143,6 +143,7 @@ Los actores que se encuentran inmersos en la cadena productiva piscícola centra
 ### 3. Encuesta para colectar datos.
 
 Una vez se identificó la metodología que establece el nivel de criticidad de los cargos, se generó la encuesta para ser respondida por expertos mediante la cual se buscaba priorizar cargos de la cadena a partir de los criterios que la metodología tiene en cuenta, de la siguiente manera:
+
 Por favor, a continuación seleccione el nivel de prioridad de cada cargo siendo 1 nivel de prioridad bajo, 2 nivel de prioridad medio, 3 nivel de prioridad alto, 4 nivel de prioridad muy alto. Seleccione 1 sola respuesta.
 •	Cargo Gerente general. Se entiende como el cargo diseñado para planear, controlar y direccionar las áreas administrativas, contables y operativas de la empresa, manteniendo un énfasis en el acompañamiento constante al Gerente Técnico con el fin de optimizar los procesos en el área de producción.
 1.	1
@@ -185,6 +186,7 @@ Por favor, a continuación seleccione el nivel de prioridad de cada cargo siendo
 2.	2
 3.	3
 4.	4
+
 Establezca el perfil que usted como experto, considera que debe tener la persona al ocupar cada cargo. Seleccione 1 sola respuesta.
 •	Cargo Gerente general. Se entiende como el cargo diseñado para planear, controlar y direccionar las áreas administrativas, contables y operativas de la empresa, manteniendo un énfasis en el acompañamiento constante al Gerente Técnico con el fin de optimizar los procesos en el área de producción.
 1.	1
@@ -227,6 +229,7 @@ Establezca el perfil que usted como experto, considera que debe tener la persona
 2.	2
 3.	3
 4.	4
+
 Establezca la responsabilidad que usted como experto, considera que tiene la persona al ocupar cada cargo. Seleccione 1 sola respuesta.
 •	Cargo Gerente general. Se entiende como el cargo diseñado para planear, controlar y direccionar las áreas administrativas, contables y operativas de la empresa, manteniendo un énfasis en el acompañamiento constante al Gerente Técnico con el fin de optimizar los procesos en el área de producción.
 1.	1
